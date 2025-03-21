@@ -1,6 +1,4 @@
 # Blink_it-Sales-Analysis
-This project analyzes Blinkit sales data using MySQL to extract key business insights. It includes data cleaning, sales performance tracking, outlet comparisons, and category-wise revenue analysis. The project helps identify top-selling products, high-performing outlets, and customer behavior trends to optimize business strategies.
-
 This project provides a detailed analysis of Blinkit sales data using MySQL. It focuses on key metrics such as total sales, average sales, order volume, and outlet performance. Additionally, it includes data cleaning, sales by category, and outlet-based sales insights to help optimize business strategies and improve decision-making.
 # Features
 ### •	Data Cleaning & Standardization
